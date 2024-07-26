@@ -8,7 +8,7 @@ In this repository, you'll find a collection of Jupyter Notebooks that cover dis
 
 ## Current Collection
 
-1. ChEMBL Data Acquisition and Basic Filtering: This notebook demonstrates how to acquire chemical data from the ChEMBL database and perform basic filtering to prepare the data for further analysis. It covers steps including data retrieval, initial inspection, and simple filtering techniques to curate the dataset.
+1. ['ChEMBLDownload.ipynb'](https://github.com/agnesdark/cheminformatics_proj/blob/main/ChEMBLDownload.ipynb): This notebook demonstrates how to acquire chemical data from the ChEMBL database and perform basic filtering to prepare the data for further analysis. It covers steps including data retrieval, initial inspection, and simple filtering techniques to curate the dataset.
 
 
 ## Contributions
