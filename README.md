@@ -15,4 +15,4 @@ In this repository, you'll find a collection of Jupyter Notebooks that cover dis
 
 While this repository primarily documents my learning journey, contributions are welcome! Feel free to submit issues, suggestions, or pull requests to enhance the notebooks and expand the scope of topics covered.
 
-Happy exploring and analyzing!
+⭐ Happy exploring and analyzing! ⭐
