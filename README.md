@@ -9,7 +9,7 @@ In this repository, you'll find a collection of Jupyter Notebooks that cover dis
 ## Current Collection
 
 1. ['ChEMBLDownload.ipynb'](https://github.com/agnesdark/cheminformatics_proj/blob/main/ChEMBLDownload.ipynb): This notebook demonstrates how to acquire data from the ChEMBL database and perform basic filtering to prepare the data for further analysis. It covers steps including data retrieval, initial inspection, and very simple filtering techniques to curate the dataset.
-2. ['SMILESPreprocess.ipynb']('https://github.com/agnesdark/cheminformatics_proj/blob/main/SMILESPreprocess.ipynb') This notebook provides an overrview of the easy technique to preprocess SMILES (Simplified Molecular Input Line Entry System) codes. It cleans and standardizes codes across the dataset, and provides a technique to identify and remove duplicate SMILES entries. 
+2. ['SMILESPreprocess.ipynb'](https://github.com/agnesdark/cheminformatics_proj/blob/main/SMILESPreprocess.ipynb) This notebook provides an overrview of the easy technique to preprocess SMILES (Simplified Molecular Input Line Entry System) codes. It cleans and standardizes codes across the dataset, and provides a technique to identify and remove duplicate SMILES entries. 
 
 ## Contributions
 
